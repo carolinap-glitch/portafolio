@@ -48,7 +48,6 @@ body {
     text-transform: uppercase;
 }
  
-/* ---------- Sección principal ---------- */
 .gustos {
     display: grid;
     grid-template-columns: minmax(0, 710px) minmax(0, 1fr);
