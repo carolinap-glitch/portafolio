@@ -217,7 +217,7 @@ body {
     transform: translateY(-12px) rotate(-2deg) scale(1.03);
 }
  
-/* ---------- Responsive ---------- */
+
 @media (max-width: 900px) {
     .gustos {
         grid-template-columns: 1fr;
