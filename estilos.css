@@ -172,7 +172,7 @@ body {
     opacity: 0;
     visibility: hidden;
     pointer-events: none;
-    transform: scale(0.2) rotate(-25deg);
+    transform: scale(0.5) rotate(360deg);
     transform-origin: 80% 80%;
     transition:
         transform 0.5s cubic-bezier(0.34, 1.7, 0.5, 1),
